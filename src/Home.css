@@ -1,0 +1,101 @@
+.HomeImage{
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+.Vmachine{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+  
+.Press {
+    position: absolute;
+    top: 20%;
+    left: 87%;
+    width: 200px;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0,.3);
+    padding: 10px;
+    border: solid black 3px;
+    border-radius: 5px;
+    font-size: larger;
+    font-weight: 450;
+}
+
+.SodaOverlay {
+    position: absolute;
+    top: 32%;
+    left: 87%;
+    width: 100px;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0,.3);
+    padding: 10px;
+    border: solid black 3px;
+    border-radius: 5px;
+    font-weight: 450;
+}
+    
+.WaterOverlay {
+    position: absolute;
+    top: 40%;
+    left: 87%;
+    width: 100px;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0,.3);
+    padding: 10px;
+    border: solid black 3px;
+    border-radius: 5px;
+    font-weight: 450;
+}
+    
+.JuiceOverlay {
+    position: absolute;
+    top: 48%;
+    left: 87%;
+    width: 100px;
+    transform: translate(-50%, -50%);
+    color: white;
+    background-color: rgba(0, 0, 0,.3);
+    padding: 10px;
+    border: solid black 3px;
+    border-radius: 5px;
+    font-weight: 450;
+}
+
+.Coke {  
+    text-align: center;
+    font-size: 150%;
+    width: 100%;
+    height: auto;
+}
+
+.Coke h3 {
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.Bottle {
+    text-align: center;
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+}
+
+.Water {
+    text-align: center;
+    font-size: 150%;
+    width: 100%;
+    height: auto;
+}
+    
+.Juice {
+    text-align: center;
+    font-size: 150%;
+    width: 100%;
+    height: auto;
+}
